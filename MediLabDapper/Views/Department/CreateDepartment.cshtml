@@ -1,0 +1,19 @@
+﻿@model CreateDepartmentDto
+@{
+    ViewData["Title"] = "CreateDepartment";
+}
+
+<h3 class="mb-4">Yeni Bölüm Ekle</h3>
+<form method="post">
+    <div class="mb-3">
+        <label for="departmentName" class="form-label">Bölüm Adı</label>
+        <input type="text" id="departmentName" asp-for="DepartmentName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="departmentDescription" class="form-label">Bölüm Açıklaması</label>
+        <textarea id="departmentDescription" asp-for="DepartmentDesc" rows="3" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

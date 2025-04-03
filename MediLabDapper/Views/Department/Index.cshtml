@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ResultDepartmentDto>
+@{
+    ViewData["Title"] = "Index";
+    int count = 0;
+}
+
+<h3>Bölümler</h3>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Bölüm Adı</th>
+        <th>Bölüm Açıklaması</th>
+        <th>İşlemler</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td>@item.DepartmentName</td>
+            <td>@item.DepartmentDesc</td>
+            <td>
+                <a href="/Department/DeleteDepartment/@item.DepartmentId" class="btn btn-outline-danger">Sil</a>
+                <a href="/Department/UpdateDepartment/@item.DepartmentId" class="btn btn-outline-warning">Güncelle</a>
+            </td>
+        </tr>
+    }
+</table>
+<a href="/Department/CreateDepartment/" class="btn btn-primary">Yeni Bölüm Ekle</a>
