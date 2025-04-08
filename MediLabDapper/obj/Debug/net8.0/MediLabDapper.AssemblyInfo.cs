@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediLabDapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4a86be5224e016def4ea33e822735bc8029f94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa26f4689223ab3982a14f75da1537d9a39b839a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediLabDapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediLabDapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

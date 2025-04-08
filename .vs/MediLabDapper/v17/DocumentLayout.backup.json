@@ -1,60 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|c:\\users\\mert\\source\\repos\\medilabdapper\\medilabdapper\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|solutionrelative:medilabdapper\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|c:\\users\\mert\\source\\repos\\medilabdapper\\medilabdapper\\repositories\\departmentrepositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|solutionrelative:medilabdapper\\repositories\\departmentrepositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|c:\\users\\mert\\source\\repos\\medilabdapper\\medilabdapper\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|solutionrelative:medilabdapper\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|c:\\users\\mert\\source\\repos\\medilabdapper\\medilabdapper\\views\\department\\updatedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1B8F79F1-2DBA-4F06-9AF9-489CD4BEF630}|MediLabDapper\\MediLabDapper.csproj|solutionrelative:medilabdapper\\views\\department\\updatedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "DockedHeight": 300,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "MediLabDapper\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "MediLabDapper\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:42:04.31Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Repositories\\DepartmentRepositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "MediLabDapper\\Repositories\\DepartmentRepositories\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Repositories\\DepartmentRepositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "MediLabDapper\\Repositories\\DepartmentRepositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:36:21.643Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -78,40 +34,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateDepartment.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Views\\Department\\UpdateDepartment.cshtml",
-              "RelativeDocumentMoniker": "MediLabDapper\\Views\\Department\\UpdateDepartment.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Views\\Department\\UpdateDepartment.cshtml",
-              "RelativeToolTip": "MediLabDapper\\Views\\Department\\UpdateDepartment.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T19:25:56.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "MediLabDapper\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MediLabDapper\\MediLabDapper\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "MediLabDapper\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T18:45:39.557Z",
-              "EditorCaption": ""
             }
           ]
         }
